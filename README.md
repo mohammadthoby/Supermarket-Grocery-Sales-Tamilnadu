@@ -1,5 +1,6 @@
 # Supermarket-Grocery-Sales-Tamilnadu
-The Supermart Grocery Sales dataset contains daily customer transaction data for a store in a certain region from 2015-2018. This dataset includes detailed records of every purchase made by customers over that four-year period
+A) The Supermart Grocery Sales dataset contains daily customer transaction data for a store in a certain region from 2015-2018. This dataset includes detailed records of every purchase made by customers over that four-year period
+
 B) This dataset has 17 columns that contain information about:
 
 1.  Order ID
