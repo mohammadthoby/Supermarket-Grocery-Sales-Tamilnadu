@@ -15,6 +15,9 @@ B) This dataset has 17 columns that contain information about:
 9.  Discount
 10. Profit
 11. State
+12. Total Sales
+13. Total Orders
+14. Cluster
 
 C) This data is highly functional for analysis, such as:
 
