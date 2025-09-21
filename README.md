@@ -1,4 +1,5 @@
 # Supermarket-Grocery-Sales-Tamilnadu
+
 A) The Supermart Grocery Sales dataset contains daily customer transaction data for a store in a certain region from 2015-
 2018. This dataset includes detailed records of every purchase made by customers over that four-year period
 
@@ -53,9 +54,20 @@ D) This data is highly functional for analysis, such as:
 
 E) Insights:
 
-**Customer Segmentation**
+*Customer Segmentation*
 
 The analysis successfully identified 3 main customer segments:
 - Cluster 1 (Lower-Spending Customers): Customers with the lowest average total sales ($279,642.00) and orders (186.57).
 - Cluster 0 (Middle-Spending Customers): The largest segment with average total sales ($302,087.52) and orders (201.83) in the middle range.
-- Cluster 2 (Higher-Spending Customers): The most valuable customer group with the highest total sales ($325,922.29) and orders (218.43).
+- Cluster 2 (Higher-Spending Customers): The most valuable customer group with the highest total sales ($325,922.29) and orders (218.43)
+
+F) Profitability Analysis
+- The Snacks and Eggs, Meat & Fish product categories yielded the highest profits.
+- The Oil & Masala category yielded the lowest profit
+
+G) Business Recommendations
+Based on the findings above, the following strategies are recommended:
+- Cluster 1: Implement up-selling and cross-selling promotions to encourage more purchases.
+- Cluster 0: Provide personalized product recommendations and offer upgrade promotions.
+- Cluster 2: Focus on a VIP or rewards program to retain loyalty and ask for product reviews and feedback.
+- Low-Profit Categories: Re-evaluate the costs and pricing of the Oil & Masala category.
