@@ -6,17 +6,17 @@ B) This data analysis project was developed using Python and leverages the follo
 
 **Data Processing**:
     
-    *Pandas*: The primary library used for data cleaning, manipulation, and analysis.
+     Pandas: The primary library used for data cleaning, manipulation, and analysis.
     
-    *NumPy*: Used to support efficient numerical operations on the dataset.
+     NumPy: Used to support efficient numerical operations on the dataset.
 
 **Data Visualization**:
     
-    *Matplotlib & Seaborn*: Used to generate various plots and visualizations that assist with Exploratory Data Analysis (EDA).
+     Matplotlib & Seaborn: Used to generate various plots and visualizations that assist with Exploratory Data Analysis (EDA).
 
 **Modeling & Metrics**:
     
-    *Scikit-learn*: Used to implement Machine Learning algorithms. Specific modules used include:
+     Scikit-learn: Used to implement Machine Learning algorithms. Specific modules used include:
     
          `KMeans` for customer segmentation.
          
