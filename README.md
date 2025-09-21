@@ -45,8 +45,17 @@ C) This dataset has 14 columns that contain information about:
 13. Total Orders
 14. Cluster
 
-C) This data is highly functional for analysis, such as:
+D) This data is highly functional for analysis, such as:
 
 1. Sales Analysis: Identifying top-selling products, total sales per branch, and daily or monthly sales trends.
 2. Customer Analysis: Creating customer segmentation based on sales and purchase transactions.
 3. Performance Analysis: Evaluating product categories that are frequently and rarely purchased by customers.
+
+E) Insights:
+
+**Customer Segmentation**
+
+The analysis successfully identified 3 main customer segments:
+- Cluster 1 (Lower-Spending Customers): Customers with the lowest average total sales ($279,642.00) and orders (186.57).
+- Cluster 0 (Middle-Spending Customers): The largest segment with average total sales ($302,087.52) and orders (201.83) in the middle range.
+- Cluster 2 (Higher-Spending Customers): The most valuable customer group with the highest total sales ($325,922.29) and orders (218.43).
