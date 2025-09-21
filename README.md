@@ -5,19 +5,27 @@ A) The Supermart Grocery Sales dataset contains daily customer transaction data 
 B) This data analysis project was developed using Python and leverages the following set of libraries:
 
 **Data Processing**:
+    
     *Pandas*: The primary library used for data cleaning, manipulation, and analysis.
+    
     *NumPy*: Used to support efficient numerical operations on the dataset.
 
 **Data Visualization**:
+    
     *Matplotlib & Seaborn*: Used to generate various plots and visualizations that assist with Exploratory Data Analysis (EDA).
 
 **Modeling & Metrics**:
+    
     *Scikit-learn*: Used to implement Machine Learning algorithms. Specific modules used include:
+    
          `KMeans` for customer segmentation.
+         
          `StandardScaler` for data normalization.
+         
          `silhouette_score` for evaluating the clustering model.
 
 **Additional Functions**:
+   
     *datetime*: Used for working with time-based data from the 'Order Date' column.
 
 C) This dataset has 14 columns that contain information about:
